@@ -64,6 +64,10 @@ sudo systemctl enable postgresql -> Starts with the system.
 ![imagen](https://github.com/user-attachments/assets/bbcd9f4b-6894-48d7-a1bb-635b3233978e)
 
 
+## Postman
+sudo snap install postman
+
+![imagen](https://github.com/user-attachments/assets/08818376-7d45-45a3-9f66-d7821432f3cd)
 
 
 

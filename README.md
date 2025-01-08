@@ -54,4 +54,4 @@ For postreSQL server start with system:
 - <code> sudo systemctl enable postgresql </code> <br>
 
 ## Postman
-sudo snap install postman
+- <code> sudo snap install postman </code> <br>
